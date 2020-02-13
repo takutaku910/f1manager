@@ -1,0 +1,56 @@
+.title {
+  color: #000000;
+}
+
+
+.header {
+  background-color: #ffc0cb;
+  height: 90px;
+}
+
+
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+
+.header-logo {
+  font-size:36px;
+  float:left;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  list-style: none;
+  float:left;
+  padding: 30px 20px;
+}
+
+
+
+.main {
+  background-color: #bdf7f1;
+  height: 2000px;
+}
+
+
+.right-menu {
+  float:right;
+  font-size: 20px;
+}
+
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}
+
+.title {
+  border-bottom:5px solid #000000;
+}
